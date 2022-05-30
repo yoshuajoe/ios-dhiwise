@@ -1,0 +1,28 @@
+import UIKit
+
+struct StringConstants {
+    static let k: String = ""
+    static let kHttpFail: String = "HTTP request failed"
+    static let kLblTransfer: String = "Transfer"
+    static let kLblIsiPulsa: String = "Isi Pulsa"
+    static let kLblFavorite: String = "Favorite"
+    static let kUnableToFetch: String = "Unable to fetch data"
+    static let kLblBeranda: String = "Beranda"
+    static let kLblHi: String = "Hi,"
+    static let kMsgCheckYourApp: String = "Check your app's UI from the below demo screens of your app."
+    static let kLblRp2210000: String = "Rp. 2.210.000"
+    static let kMsgLutfhiReynaldy: String = " Lutfhi Reynaldy Tambora"
+    static let kLblTopUp: String = "Top Up"
+    static let kLblProfil: String = "Profil"
+    static let kMsgMerchantTerde: String = "Merchant \nTerdekat"
+    static let kLblRiwayat: String = "Riwayat"
+    static let kInvalidUrl: String = "Invalid URL"
+    static let kMsgKategoriMercha: String = "Kategori\nMerchant "
+    static let kLblAppNavigation: String = "App Navigation"
+    static let kLblScan: String = "Scan"
+    static let kMsgHiLutfhiReyn: String = "Hi, Lutfhi Reynaldy Tambora"
+    static let kMsgRekomendasiMer: String = "Rekomendasi\nMerchant "
+    static let kLblIos: String = "IOS"
+    static let kLblSaldoAnda: String = "Saldo Anda,"
+    static let kLblTransaksi: String = "Transaksi"
+}
